@@ -1,10 +1,15 @@
+//**************************************************************************************
 //
-//  AppDelegate.swift
-//  HealthKitTest
+//    Filename: AppDelegate.swift
+//     Project: HealthKitTest
 //
-//  Created by Robert Kerr on 9/17/16.
-//  Copyright © 2016 Marvel Apps, LLC. All rights reserved.
+//      Author: Robert Kerr 
+//   Copyright: Copyright © 2016 Marvel Apps, LLC. All rights reserved.
 //
+//  Maintenance History
+//          9/17/16      File Created
+//
+//**************************************************************************************
 
 import UIKit
 

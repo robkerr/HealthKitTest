@@ -27,6 +27,7 @@
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
+		<string>healthkit</string>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
@@ -34,5 +35,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>NSHealthShareUsageDescription</key>
+    <string>App reads healh data to import data written to Apple Health by other step counting devices to award points.</string>
+    <key>NSHealthUpdateUsageDescription</key>
+    <string>Gathers step data to award fitness points to be used in-app. Writes to Healthkit when a Fitbit is linked.</string>
 </dict>
 </plist>
